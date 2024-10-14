@@ -1,2 +1,2 @@
 # IPCA-TIEDJD1
-Técnica de Desenvolvimento de Videojogos 2022-2023
+Técnica de Desenvolvimento de Videojogos 2024-2025
